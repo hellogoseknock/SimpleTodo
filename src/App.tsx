@@ -6,7 +6,12 @@ function App() {
 
   return (
     <>
-      <Button>hello chadcn button</Button>
+      <div>
+        <Button>hello from macbook</Button>
+      </div>
+      <div>
+        <Button>hello chadcn button</Button>
+      </div>
     </>
   )
 }
